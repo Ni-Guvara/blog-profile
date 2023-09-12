@@ -14,17 +14,19 @@
 
 ​	              数据库表：m_user、m_blogm_blog
 
+​					blog.sql :创建相关数据表的语句
+
 # front:
 
-​		前端代码
+​	前端代码
 
-​		开发工具：vscode
+​	开发工具：vscode
 
-​		开发框架：vue
+​	开发框架：vue
 
-​		环境配置：需要使用nodejs进行依赖的js库下载
+​	环境配置：需要使用nodejs进行依赖的js库下载
 
-​		运行：
+​	运行：
 
 ​				npm install
 

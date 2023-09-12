@@ -12,7 +12,7 @@
 
 ​             	创建的数据库：blog （数据库账号、数据库密码按照自己）
 
-​	              数据库表：m_user、m_blogm_blog
+​	              数据库表：m_user、m_blog
 
 ​					blog.sql :创建相关数据表的语句
 
